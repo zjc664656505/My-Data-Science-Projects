@@ -1,4 +1,5 @@
 # My Data Science Portfolio
+Author: Junchen Zhao.
 This Repository consists of my past Data Science project works as a showcase of my professional skills.
 
 ## Project1 - Profitable App Profiles for the App Store and Google Play Markets：
