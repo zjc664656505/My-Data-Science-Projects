@@ -1,4 +1,5 @@
-This project is a portfolio type project: We want to help our developers understand what type of apps are likely to attract more users on Google play and App store through the result from this project.
+## This project is a portfolio type project: 
+We want to help our developers understand what type of apps are likely to attract more users on Google play and App store through the result from this project.
 
 Our goal is to successfully build this project up.
 
