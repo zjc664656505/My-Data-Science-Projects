@@ -10,6 +10,6 @@ This Repository consists of my past Data Science project works as a showcase of 
   1. In this project, we'll work with a data set of submissions to popular technology site Hacker News.
   2. This project is a showcase of my intermidiate python programming ability such as the understanding about class structure, advanced python functions, and the usage of advanced data structures algorithms.
 
-## Project 3: Exploring Eaby Car Sales Data
+## Project 3 - Exploring Eaby Car Sales Data
   1. This project aims to clean the data and analyze the included used car listings. 
   2. At the same time, this project will explain my numpy and pandas usage skills.
