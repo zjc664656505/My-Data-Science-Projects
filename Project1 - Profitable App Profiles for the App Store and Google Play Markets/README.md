@@ -1,5 +1,6 @@
-## This project is a portfolio type project: 
-We want to help our developers understand what type of apps are likely to attract more users on Google play and App store through the result from this project.
+## Project1 - Profitable App Profiles for the App Store and Google Play Markets
+
+This project is a portfolio type project: We want to help our developers understand what type of apps are likely to attract more users on Google play and App store through the result from this project.
 
 Our goal is to successfully build this project up.
 
