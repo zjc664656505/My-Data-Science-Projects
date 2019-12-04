@@ -13,3 +13,7 @@ This Repository consists of my past Data Science project works as a showcase of 
 ## Project 3 - Exploring Eaby Car Sales Data
   1. This project aims to clean the data and analyze the included used car listings. 
   2. At the same time, this project will explain my numpy and pandas usage skills.
+
+## Project 4: Visualizing Earning Based College Majors
+  1. In this project, we'll explore how using the pandas plotting functionality along with the Jupyter notebook interface     allows us to explore data quickly using visualizations.
+  2. At the same time, this project will explain my ability of visualizing the dataset.
